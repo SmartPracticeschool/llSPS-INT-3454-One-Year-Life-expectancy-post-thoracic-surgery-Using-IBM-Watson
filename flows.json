@@ -1,0 +1,1 @@
+[{"id":"8c072fc0.18503","type":"function","z":"4ef890af.830a1","name":"","func":"msg.payload=msg.payload.predictions[0].values[0][0]\nreturn msg;","outputs":1,"noerr":0,"initialize":"","finalize":"","x":460,"y":60,"wires":[["230f2fdd.7187d"]]}]
