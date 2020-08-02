@@ -1,2 +1,2 @@
 One-Year-Life-expectancy-post-thoracic-surgery-Using-IBM-Watson
-output link:https://node-red-doyzf.eu-gb.mybluemix.net/ui/#!/0?socketid=X4Ou9Yp_RrWbkYYXAAAP
+output link:https://node-red-kazap-2020-08-01.eu-gb.mybluemix.net/ui/#!/0?socketid=uwJvl-nMQKS0th0mAAAC
